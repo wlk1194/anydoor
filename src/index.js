@@ -1,5 +1,8 @@
-console.info();
+console.log();
+
+console.log();
 
 console.info();
 
-console.info();
+
+console.log();
