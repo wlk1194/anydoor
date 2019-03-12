@@ -1,10 +1,10 @@
 {
   "private": true,
-  "scripts" : {
+  "scripts": {
     "lint": "eslint .",
     "fix": "eslint --fix ."
   },
-  "pre-commit":[
+  "pre-commit": [
     "fix",
     "lint"
   ],
